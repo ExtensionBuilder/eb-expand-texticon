@@ -9,8 +9,8 @@
         }
     },
     "require": {
-        "bootstrap_package": "15",
-        "typo3/cms-core": "12"
+		"typo3/cms-core": "^12.4 || ^13.4 || 14.*.*@dev",
+        "bk2k/bootstrap-package": "^15 || ^16"
     },
     "autoload": {
         "psr-4": {
