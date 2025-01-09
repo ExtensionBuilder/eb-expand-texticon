@@ -1,0 +1,20 @@
+#
+# Version 1.0.0
+# 
+# This file is part of the package ExtensionBuilder/EbExpandTexticon
+# 
+# For the full copyright and license information, please read the
+# LICENSE.txt file that was distributed with this source code.
+# 
+# 
+# Extension created with Extension Builder for TYPO3
+#   Version Editor:  0.4.101
+#   Version Core:    0.4.87
+#   Build date/time: 9.1.2025 18:58:49
+# 
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+

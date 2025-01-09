@@ -1,0 +1,20 @@
+{
+    "name": "extensionbuilder/eb-expand-texticon",
+    "type": "typo3-cms-extension",
+    "description": "Expand BK2K Bootstrap Package content element “Text and Icon” with some open source SVG icon libraries",
+    "license": "mit",
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "eb_expand_texticon"
+        }
+    },
+    "require": {
+        "bootstrap_package": "15",
+        "typo3/cms-core": "12"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExtensionBuilder\\EbExpandTexticon\\": "Classes/"
+        }
+    }
+}
